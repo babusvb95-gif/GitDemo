@@ -2,7 +2,7 @@ package FinalKeyword;
 
 class ParentTest {
 	
-	final  void data() {
+	void data() {
 		
 		System.out.println("I am Final");
 	}
