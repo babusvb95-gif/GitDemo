@@ -14,9 +14,7 @@ public class ChildClassDemo extends ParentClassDemo{
 		cd.Brake();
 		cd.engine();
 		cd.carColour();
-		cd.Type();
-		cd.TypeA();
-		cd.TypeB();
+	
 	}
 
 }
