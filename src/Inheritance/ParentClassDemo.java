@@ -13,18 +13,7 @@ public void Brake() {
 		System.out.println("Brake Code Implemented");
 	}
 	
-public void Type() {
-	
-	System.out.println("Type Code Implemented");
-}
-public void TypeA() {
-	
-	System.out.println("Type Code Implemented");
-}
-public void TypeB() {
-	
-	System.out.println("Type Code Implemented");
-}
+
 
 	
 	
