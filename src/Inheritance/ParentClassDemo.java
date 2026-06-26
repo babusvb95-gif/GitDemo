@@ -18,11 +18,15 @@ public void Type() {
 }
 public void TypeA() {
 	
-	System.out.println("Type Code Implemented");
+	System.out.println("TypeA Code Implemented");
 }
 public void TypeB() {
 	
-	System.out.println("Type Code Implemented");
+	System.out.println("TypeB Code Implemented");
+}
+public void TypeC() {
+	
+	System.out.println("TypeB Code Implemented");
 }
 
 	
